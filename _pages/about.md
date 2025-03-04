@@ -36,6 +36,13 @@ Selected Publications
 ### Neural Machine Translation
 * <span style="color:red">Xu, J.</span>, Ruan, Y., Bi, W., Huang, G., Shi, S., Chen, L. and Liu, L., 2022, July. [On Synthetic Data for Back Translation](https://aclanthology.org/2022.naacl-main.32/). In Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (pp. 419-430).
 
+
+Awards
+---
+* 2024 Technical Breakthrough Award from Tencent Hunyuan Large Model Joint Team
+* NTU Research Scholarship
+
+
 Acknowledgment
 ---
 I would like to express my heartfelt gratitude to Principal Researcher [Zhaopeng Tu](https://tuzhaopeng.github.io/) and [Lemao Liu](https://lemaoliu.github.io/) for their invaluable guidance and support during my internship at Tencent AI Lab. Their expertise, encouragement, and insightful feedback have been instrumental in shaping my understanding of long-reasoning models and advancing my research skills.
