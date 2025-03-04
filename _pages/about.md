@@ -45,5 +45,5 @@ Awards
 
 Acknowledgment
 ---
-I would like to express my heartfelt gratitude to Principal Researcher [Zhaopeng Tu](https://tuzhaopeng.github.io/) and [Lemao Liu](https://lemaoliu.github.io/) for their invaluable guidance and support during my internship at Tencent AI Lab. Their expertise, encouragement, and insightful feedback have been instrumental in shaping my understanding of long-reasoning models and advancing my research skills.  
-I would also like to extend my thanks to the interns who worked alongside me during this journey. Their collaboration, diverse perspectives, and shared enthusiasm for innovation greatly enriched my experience and made our work environment both dynamic and inspiring.
+- I would like to express my heartfelt gratitude to Principal Researcher [Zhaopeng Tu](https://tuzhaopeng.github.io/) and [Lemao Liu](https://lemaoliu.github.io/) for their invaluable guidance and support during my internship at Tencent AI Lab. Their expertise, encouragement, and insightful feedback have been instrumental in shaping my understanding of long-reasoning models and advancing my research skills.  
+- I would also like to extend my thanks to the interns who worked alongside me during this journey. Their collaboration, diverse perspectives, and shared enthusiasm for innovation greatly enriched my experience and made our work environment both dynamic and inspiring.
