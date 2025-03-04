@@ -17,11 +17,11 @@ Selected Publications
 ---
 \* denotes co-first authors.
 ### LLM Reasoning
-* Ji, K.*, <span style="color:red">Xu, J.*</span>, Liang, T.*, Liu, Q.*, He, Z., Chen, X., Liu, X., Wang, Z., Chen, J., Wang, B. and Tu, Z., [The First Few Tokens Are All You Need: An Efficient and Effective Unsupervised Prefix Fine-Tuning Method for Reasoning Models](http://dx.doi.org/10.13140/RG.2.2.33772.07043). 
-* Wang, Y.*, Liu, Q.*, <span style="color:red">Xu, J.*</span>, Liang, T.*, Chen, X.*, He, Z.*, Song, L., Yu, D., Li, J., Zhang, Z. and Wang, R., 2025. [Thoughts Are All Over the Place: On the Underthinking of o1-Like LLMs](https://arxiv.org/abs/2501.18585). arXiv preprint arXiv:2501.18585.  
-* Chen, X.*, <span style="color:red">Xu, J.*</span>, Liang, T.*, He, Z.*, Pang, J., Yu, D., Song, L., Liu, Q., Zhou, M., Zhang, Z. and Wang, R., 2024. [Do not think that much for 2+ 3=? on the overthinking of o1-like llms](https://arxiv.org/abs/2412.21187). arXiv preprint arXiv:2412.21187.  
+* Ji, K.\*, <span style="color:red">Xu, J.\*</span>, Liang, T.\*, Liu, Q.\*, He, Z., Chen, X., Liu, X., Wang, Z., Chen, J., Wang, B. and Tu, Z., [The First Few Tokens Are All You Need: An Efficient and Effective Unsupervised Prefix Fine-Tuning Method for Reasoning Models](http://dx.doi.org/10.13140/RG.2.2.33772.07043). 
+* Wang, Y.\*, Liu, Q.\*, <span style="color:red">Xu, J.\*</span>, Liang, T.\*, Chen, X.*, He, Z.*, Song, L., Yu, D., Li, J., Zhang, Z. and Wang, R., 2025. [Thoughts Are All Over the Place: On the Underthinking of o1-Like LLMs](https://arxiv.org/abs/2501.18585). arXiv preprint arXiv:2501.18585.  
+* Chen, X.\*, <span style="color:red">Xu, J.\*</span>, Liang, T.\*, He, Z.\*, Pang, J., Yu, D., Song, L., Liu, Q., Zhou, M., Zhang, Z. and Wang, R., 2024. [Do not think that much for 2+ 3=? on the overthinking of o1-like llms](https://arxiv.org/abs/2412.21187). arXiv preprint arXiv:2412.21187.  
 * Yu, D., Zhang, Y., <span style="color:red">Xu, J.</span>, Liang, T., Song, L., Tu, Z., Mi, H. and Yu, D., 2024. [Teaching LLMs to Refine with Tools](https://arxiv.org/abs/2412.16871). arXiv preprint arXiv:2412.16871  
-* Lin, Z.*, Liang, T.*, <span style="color:red">Xu, J.*</span>, Wang, X., Luo, R., Shi, C., Li, S., Yang, Y. and Tu, Z., 2024. [Critical Tokens Matter: Token-Level Contrastive Estimation Enhence LLM's Reasoning Capability](https://arxiv.org/abs/2411.19943). arXiv preprint arXiv:2411.19943.  
+* Lin, Z.\*, Liang, T.\*, <span style="color:red">Xu, J.\*</span>, Wang, X., Luo, R., Shi, C., Li, S., Yang, Y. and Tu, Z., 2024. [Critical Tokens Matter: Token-Level Contrastive Estimation Enhence LLM's Reasoning Capability](https://arxiv.org/abs/2411.19943). arXiv preprint arXiv:2411.19943.  
 
 ### Inference Acceleration
 * Zhang, Z., <span style="color:red">Xu, J.</span>, Liang, T., Chen, X., He, Z., Wang, R. and Tu, Z., 2024. [Draft Model Knows When to Stop: A Self-Verification Length Policy for Speculative Decoding](https://arxiv.org/abs/2411.18462). arXiv preprint arXiv:2411.18462.  
