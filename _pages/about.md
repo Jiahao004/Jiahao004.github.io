@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-* I am currently interning in the [Tencent AI Lab](https://ailab.tencent.com/ailab/zh/index) for Long Reasoning Models. I am very appreciative of the opportunity to work alongside some of the brightest minds in artificial intelligence and to contribute to cutting-edge research in this field. 
+* I am currently interning in the [Tencent AI Lab](https://ailab.tencent.com/ailab/zh/index) for Long Reasoning Models. 
 * I am also a Ph.D. candidate at [NTU](https://www.ntu.edu.sg/) supervised by [Prof. Chen Lihui](https://scholar.google.com/citations?user=XqNeXssAAAAJ&hl=en).
 * I obtained my MSc Degree in Signal Processing at the same university. Before that, I obtained my Bachelor's degree at [UESTC](https://en.uestc.edu.cn/) majoring in Communication Engineering.
 
