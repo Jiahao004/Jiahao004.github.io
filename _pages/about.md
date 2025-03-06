@@ -12,6 +12,15 @@ redirect_from:
 * I am also a Ph.D. candidate at [NTU](https://www.ntu.edu.sg/) supervised by [Prof. Chen Lihui](https://scholar.google.com/citations?user=XqNeXssAAAAJ&hl=en).
 * I obtained my MSc Degree in Signal Processing at the same university. Before that, I obtained my Bachelor's degree at [UESTC](https://en.uestc.edu.cn/) majoring in Communication Engineering.
 
+Projects
+---
+- <span style="color:red">Scaling RL-Zero</span>: Towards more general and frontier reasoning tasks.
+- <span style="color:red">TransAgents</span>: a virtual multi-agent translation company that mirrors the traditional translation publication processes in human society.
+- <span style="color:red">Complex instruction following</span> projects for Hunyuan LLMs.
+- <span style="color:red">Seamless speech-to-speech translation</span> training for Tencent Meeting.
+- <span style="color:red">Privacy-preserving NMT</span> system via privacy-detecting and masking modules.
+- <span style="color:red">Back Translation NMT systems</span> Propose a back translation decoding algorithm for back translation NMT synthetic data generation, which increases the performance of Tencent Translator.
+
 
 Selected Publications
 ---
