@@ -14,12 +14,12 @@ redirect_from:
 
 Projects
 ---
-- <span style="color:red">Scaling RL-Zero</span>: Towards more general and frontier reasoning tasks.
-- <span style="color:red">TransAgents</span>: A virtual multi-agent translation company that mirrors the traditional translation publication processes.[Paper](https://aclanthology.org/2024.emnlp-demo.14/).[Code](https://github.com/minghao-wu/transagents).
-- <span style="color:red">Complex instruction following</span>: Project for Hunyuan LLMs.
-- <span style="color:red">Seamless speech-to-speech translation</span> Speach-to-speech translation model for Tencent Meeting App.
-- <span style="color:red">Privacy-preserving NMT system</span> A NMT translation system, which auto-protect the privacy information.
-- <span style="color:red">Back Translation NMT system</span> A back translation data algorithm to enhance the performance of Tthe encent Translator App.
+- **Scaling RL-Zero**: Towards more general and frontier reasoning tasks.
+- **TransAgents**: A virtual multi-agent translation company that mirrors the traditional translation publication processes.[Paper](https://aclanthology.org/2024.emnlp-demo.14/).[Code](https://github.com/minghao-wu/transagents).
+- **Complex instruction following**: Project for Hunyuan LLMs.
+- **Seamless speech-to-speech translation**: Speach-to-speech translation model for Tencent Meeting App.
+- **Privacy-preserving NMT system**: A NMT translation system, which auto-protects the privacy information.
+- **Back Translation NMT system**: A back translation data algorithm to enhance the performance of the Tencent Translator App.
 
 
 Selected Publications
