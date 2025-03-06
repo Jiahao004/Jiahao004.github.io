@@ -8,18 +8,18 @@ redirect_from:
 ---
 
 
-* I am currently interning in the [Tencent AI Lab](https://ailab.tencent.com/ailab/zh/index) for Long Reasoning Models. 
+* I am interning for Long Reasoning Models in the [Tencent AI Lab](https://ailab.tencent.com/ailab/zh/index). 
 * I am also a Ph.D. candidate at [NTU](https://www.ntu.edu.sg/) supervised by [Prof. Chen Lihui](https://scholar.google.com/citations?user=XqNeXssAAAAJ&hl=en).
-* I obtained my MSc Degree in Signal Processing at the same university. Before that, I obtained my Bachelor's degree at [UESTC](https://en.uestc.edu.cn/) majoring in Communication Engineering.
+* I obtained my MSc Degree in Signal Processing at the same university. Before that, I obtained my Bachelor's degree at [UESTC](https://en.uestc.edu.cn/).
 
 Projects
 ---
 - <span style="color:red">Scaling RL-Zero</span>: Towards more general and frontier reasoning tasks.
-- <span style="color:red">TransAgents</span>: a virtual multi-agent translation company that mirrors the traditional translation publication processes in human society.
-- <span style="color:red">Complex instruction following</span> projects for Hunyuan LLMs.
-- <span style="color:red">Seamless speech-to-speech translation</span> training for Tencent Meeting.
-- <span style="color:red">Privacy-preserving NMT</span> system via privacy-detecting and masking modules.
-- <span style="color:red">Back Translation NMT systems</span> Propose a back translation decoding algorithm for back translation NMT synthetic data generation, which increases the performance of Tencent Translator.
+- <span style="color:red">TransAgents</span>: A virtual multi-agent translation company that mirrors the traditional translation publication processes.[Paper](https://aclanthology.org/2024.emnlp-demo.14/).[Code](https://github.com/minghao-wu/transagents).
+- <span style="color:red">Complex instruction following</span>: Project for Hunyuan LLMs.
+- <span style="color:red">Seamless speech-to-speech translation</span> Speach-to-speech translation model for Tencent Meeting App.
+- <span style="color:red">Privacy-preserving NMT system</span> A NMT translation system, which auto-protect the privacy information.
+- <span style="color:red">Back Translation NMT system</span> A back translation data algorithm to enhance the performance of Tthe encent Translator App.
 
 
 Selected Publications
