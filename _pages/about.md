@@ -26,6 +26,7 @@ Selected Publications
 ---
 \* denotes co-first authors.
 ### LLM Reasoning
+* Li, Y.\*, <span style="color:red">Xu, J.\*</span>, Liang, T.\*, Chen, X., He, Z., Liu, Q., Wang, R., Zhang, Z., Tu, Z., Mi, H., and Yu, D. [Dancing with Critiques: Enhancing LLM Reasoning with Stepwise Natural Language Self-Critique](http://dx.doi.org/10.13140/RG.2.2.27912.33289).
 * Ji, K.\*, <span style="color:red">Xu, J.\*</span>, Liang, T.\*, Liu, Q.\*, He, Z., Chen, X., Liu, X., Wang, Z., Chen, J., Wang, B. and Tu, Z., [The First Few Tokens Are All You Need: An Efficient and Effective Unsupervised Prefix Fine-Tuning Method for Reasoning Models](http://dx.doi.org/10.13140/RG.2.2.33772.07043). 
 * Wang, Y.\*, Liu, Q.\*, <span style="color:red">Xu, J.\*</span>, Liang, T.\*, Chen, X.*, He, Z.*, Song, L., Yu, D., Li, J., Zhang, Z. and Wang, R., 2025. [Thoughts Are All Over the Place: On the Underthinking of o1-Like LLMs](https://arxiv.org/abs/2501.18585). arXiv preprint arXiv:2501.18585.  
 * Chen, X.\*, <span style="color:red">Xu, J.\*</span>, Liang, T.\*, He, Z.\*, Pang, J., Yu, D., Song, L., Liu, Q., Zhou, M., Zhang, Z. and Wang, R., 2024. [Do not think that much for 2+ 3=? on the overthinking of o1-like llms](https://arxiv.org/abs/2412.21187). arXiv preprint arXiv:2412.21187.  
