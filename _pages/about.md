@@ -59,8 +59,3 @@ Acknowledgment
 - I would like to express my heartfelt gratitude to Principal Researcher [Zhaopeng Tu](https://tuzhaopeng.github.io/) and [Lemao Liu](https://lemaoliu.github.io/) for their invaluable guidance and support during my internship at Tencent AI Lab. Their expertise, encouragement, and insightful feedback have been instrumental in shaping my understanding of long-reasoning models and advancing my research skills.  
 - I would also like to extend my thanks to the interns who worked alongside me during this journey. Their collaboration, diverse perspectives, and shared enthusiasm for innovation greatly enriched my experience and made our work environment both dynamic and inspiring.
 
-<div style="display: flex; justify-content: center; align-items: center;">
-  <a href="https://mapmyvisitors.com/web/1byac" title="Visit tracker">
-    <img src="https://mapmyvisitors.com/map.png?d=LOcnqrZfCnctscm__hrpxb47aA9TF9wgOBIzfhgJnPg&cl=ffffff" />
-  </a>
-</div>
